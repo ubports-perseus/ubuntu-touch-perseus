@@ -4,6 +4,3 @@ This repository will contain the files needed by UBPorts Installer to install Ub
 
 ## Vendor
 The vendor image is from latest stock Android 9 V9.9.3. Source: [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
-
-## DTBO
-The dtbo image is based on LineageOS 16.0. Source and Credit: [Demon000's Repo](https://github.com/Demon000/kernel_xiaomi_sdm845)
